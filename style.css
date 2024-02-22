@@ -1,0 +1,22 @@
+.header .title{
+    background-color: rgb(168, 158, 142);
+    padding: 1em;
+    text-align: center;
+    width: 800px;
+    margin: 20px auto;
+}
+.header img{
+    position: absolute; /* Set the image position to absolute */
+    top: 23px; /* Adjust the top position */
+    left: 240px; /* Adjust the left position */
+    width: 140px; /* Set the width of the logo */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 45px;
+}
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
