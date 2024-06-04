@@ -4,12 +4,14 @@
     text-align: center;
     width: 800px;
     margin: 20px auto;
+    border-top-left-radius: 45px;
+    border-bottom-left-radius: 45px;
 }
 .header img{
     position: absolute; /* Set the image position to absolute */
-    top: 23px; /* Adjust the top position */
-    left: 240px; /* Adjust the left position */
-    width: 140px; /* Set the width of the logo */
+    top: 20px; /* Adjust the top position */
+    left: 255px; /* Adjust the left position */
+    width: 145px; /* Set the width of the logo */
     height: auto; /* Maintain aspect ratio */
     border-radius: 45px;
 }
